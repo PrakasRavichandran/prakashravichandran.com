@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PrakasRavichandran/prakashravichandran.com/main/public/media/brand/logo-full-sm.png?token=GHSAT0AAAAAACKRAOP3DBSHJSEPQRIOBMUUZRPEXHA" width="144" align="right" hspace="0" />
+<img src="https://raw.githubusercontent.com/PrakasRavichandran/prakashravichandran.com/main/public/media/brand/logo-full-sm.png" width="144" align="right" hspace="0" />
 
 ✨ &nbsp; [prakashravichandran.com](https://www.prakashravichandran.com/)
 ======
