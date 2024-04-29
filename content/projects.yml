@@ -1,0 +1,190 @@
+- order: 0
+  name: NMER
+  description: ATEX ZONE 0 NMER with Mobile Control Unit
+  icon: icons/nmer.png
+  url: https://unibose.com/
+  color: "#4d8af0"
+  repo: NMER
+
+- order: 1
+  name: ZONE-CAM
+  description: ATEX ZONE 0 CCTV Camera & Processing Unit
+  icon: icons/cam.png
+  url: https://unibose.com/
+  color: "#00202b"
+  darkColor: "#4dcc89"
+  repo: ZONE-CAM
+  owner: PrakasRavichandran
+
+- order: 2
+  name: REMS
+  description: Advanced High-Tech Manhole and Sewage Cleaning Robot
+  icon: icons/manhole.png
+  url: https://unibose.com/
+  color: "#3E95FB"
+  repo: PrakasRavichandran
+
+- order: 3
+  name: Project VEDHA
+  description: Alumina De-Scaling Robot with Mobile Control Unit
+  icon: icons/de-scale.png
+  url: https://unibose.com/
+  color: "#003893"
+  darkColor: "#fcd116"
+  repo: Project VEDHA
+
+- order: 4
+  name: PowerHouse
+  description: IoT based Smart Classroom Automation
+  icon: icons/powerhouse.png
+  url: https://smartclassroomiot.netlify.app/
+  color: "#9853fd"
+  repo: PowerHouse
+
+- order: 5
+  name: Heaven Between Covers
+  description: An Online Library Management System
+  icon: icons/bookstore.png
+  # preview: android/fabsmenu-preview.png
+  url: https://heaven-between-covers.netlify.app/
+  color: "#eb3b75"
+  repo: HBC
+
+- order: 6
+  name: CircuitX
+  description: An intuitive RLC circuit simulator
+  icon: icons/circuit.png
+  # preview: android/frames-preview.png
+  url: https://circuitex.netlify.app/
+  color: "#35b4ef"
+  repo: CircuitX
+
+- order: 7
+  name: iScopeX
+  description: Virtual Oscilloscope for in-depth waveform analysis
+  icon: icons/oscilloscope.png
+  # preview: android/kuper-preview.png
+  url: https://iscopex.netlify.app/
+  color: "#6673C0"
+  repo: iScopeX
+
+- order: 8
+  name: ElectroniX
+  description: A dynamic Logic Gates Circuit Stimulator
+  icon: icons/gates.png
+  url: https://electroni-x.netlify.app/
+  color: "#92a3b5"
+
+- order: 9
+  name: J.A.R.V.I.S
+  description: AI assistant based on the powerful GPT-4.0 architecture
+  icon: icons/J.A.R.V.I.S.png
+  url: https://jarvisx.vercel.app/
+  color: "#4285F4"
+  repo: J.A.R.V.I.S
+
+- order: 10
+  name: AttSys
+  description: E-Attendance using RFID technology with database
+  icon: icons/attsys.png
+  url: https://github.com/PrakasRavichandran/AttSys
+  color: "#88a4e6"
+  repo: AttSys
+
+- order: 11
+  name: MaskMan
+  description: E-mask detection designed for COVID-19 protocols
+  icon: icons/maskman.png
+  url: https://github.com/PrakasRavichandran/Face-Mask-Detection-System-js
+  color: "#929292"
+  repo: MaskMan
+
+- order: 12
+  name: EmoSense
+  description:  AI for emotion prediction in browsers
+  icon: icons/emotion.png
+  url: https://github.com/PrakasRavichandran/EmotionDetector
+  color: "#FC8303"
+  repo: EmoSense
+
+- order: 13
+  name: Testing Tendulkar
+  description: Statistical analysis of Mr.Sachin's cricket career using R programming
+  icon: icons/tendulkar.png
+  url: https://testing-tendulkar.netlify.app/
+  color: "#E69494"
+  repo: Testing Tendulkar
+
+- order: 14
+  name: MovieCorn
+  description: A web application for a feature-rich movies by TMDb API
+  icon: icons/moviecorn.png
+  url: https://movieecorn.netlify.app/
+  color: "#5360D2"
+  darkColor: "#79FFE1"
+  repo: MovieCorn
+
+- order: 15
+  name: ChefSource
+  description: A wide range of delicious dishes for using TheMealDB API
+  icon: icons/chefsource.png
+  url: https://chefsource.netlify.app/
+  color: "#4285F4"
+  repo: ChefSource
+
+- order: 16
+  name: CloudFlex
+  description: Deliver climate information for harnessing the power of the OpenWeatherMap API
+  icon: icons/cloudflex.png
+  url: https://cloudflex.netlify.app/
+  color: "#88a4e6"
+  repo: CloudFlex
+
+- order: 17
+  name: Guardian of the Galaxy
+  description: A web page for Explore the Milky Way galaxy
+  icon: icons/gardianofgalaxy.png
+  url: https://guardian-of-the-galaxy.netlify.app/
+  color: "#929292"
+  repo: gardianofgalaxy
+
+- order: 18
+  name: GitHub Dev
+  description:  A  Tool for searching GitHub users
+  icon: icons/github.png
+  url: https://gh-user-info.netlify.app/
+  color: "#FC8303"
+  repo: GitHub Dev
+
+- order: 19
+  name: Dairy Blog
+  description: My personal dairy blog using markdown
+  icon: icons/blog.png
+  url: https://prakashdairies.netlify.app/
+  color: "#E69494"
+  repo: Dairy Blog
+  
+- order: 20
+  name: Thirukural
+  description: World's ancient and greatest literary treasures
+  icon: icons/thirukural.png
+  url: https://thirukuralapp.netlify.app/
+  color: "#5360D2"
+  darkColor: "#79FFE1"
+  repo: Thirukural
+
+- order: 21
+  name: WebDev Resource
+  description: Mastering web development tool
+  icon: icons/webdev.png
+  url: https://github.com/PrakasRavichandran/web-development-resources
+  color: "#4285F4"
+  repo: WebDev Resource
+
+- order: 22
+  name: Spotify Track
+  description: Spotify Currently Playing Track
+  icon: icons/spotify-playing-now.png
+  url: https://github.com/PrakasRavichandran/spotify
+  color: "#929292"
+  repo: Spotify Currently Playing Track
